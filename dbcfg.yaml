@@ -1,6 +1,6 @@
 src:
-  host: "192.168.189.200"
+  host: "192.168.189.20"
   port: "1521"
   database: "orcl"
-  username: "taic_punish"
+  username: "admin"
   password: "oracle"
