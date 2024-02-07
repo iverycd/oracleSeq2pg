@@ -1,2 +1,3 @@
 *.txt
 oracleSeq2pg.exe
+.idea
